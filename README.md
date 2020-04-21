@@ -1,5 +1,4 @@
-
-# How to setup a macOS development machine
+# How to setup a macOS laptop for web and mobile development
 
 By default macOS environments are configured to execute lots of different types of applications, but executing things and compiling things are two very different activities that require totally different libraries and system configurations. The following steps will change those default behaviors to make setting up and maintaining development projects a whole lot easier. IOW, this is how to setup a macOS development environment from scratch.
 
